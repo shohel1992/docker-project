@@ -189,3 +189,5 @@
 [2024-08-18 08:07:04.688 +00:00] [INF] [92] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Scan Media Library" Completed after 0 minute(s) and 1 seconds
 [2024-08-18 08:07:04.688 +00:00] [INF] [91] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/media/Docker"
 [2024-08-18 08:09:47.436 +00:00] [INF] [83] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-08-18 08:12:35.435 +00:00] [INF] [65] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-08-18 08:15:23.436 +00:00] [INF] [68] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
