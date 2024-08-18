@@ -315,3 +315,52 @@
 [2024-08-18 08:37:55.381 +00:00] [INF] [27] Jellyfin.Api.Helpers.MediaInfoHelper: User policy for "shohel2". EnablePlaybackRemuxing: True EnableVideoPlaybackTranscoding: True EnableAudioPlaybackTranscoding: True
 [2024-08-18 08:38:04.252 +00:00] [INF] [30] Emby.Server.Implementations.Session.SessionManager: Playback stopped reported by app "Jellyfin Web" "10.9.9" playing "lesson4". Stopped at "7562" ms
 [2024-08-18 08:38:07.975 +00:00] [INF] [27] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "100.120.121.5" closed
+[2024-08-18 08:42:01.860 +00:00] [INF] [38] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-08-18 08:44:49.860 +00:00] [INF] [44] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-08-18 08:47:37.860 +00:00] [INF] [51] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-08-18 08:50:25.860 +00:00] [INF] [53] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-08-18 08:54:01.860 +00:00] [INF] [63] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-08-18 08:56:49.859 +00:00] [INF] [65] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-08-18 08:59:37.860 +00:00] [INF] [75] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-08-18 09:02:25.860 +00:00] [INF] [85] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-08-18 09:06:01.860 +00:00] [INF] [84] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-08-18 09:08:49.860 +00:00] [INF] [102] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-08-18 09:11:37.860 +00:00] [INF] [110] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-08-18 09:14:25.860 +00:00] [INF] [122] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-08-18 09:18:01.860 +00:00] [INF] [133] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-08-18 09:20:49.860 +00:00] [INF] [140] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-08-18 09:23:37.860 +00:00] [INF] [146] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-08-18 09:26:10.930 +00:00] [INF] [152] Emby.Server.Implementations.Session.SessionManager: Logging out access token "f5c1c8ae0696423eab658ac89af70dc4"
+[2024-08-18 09:26:10.944 +00:00] [INF] [147] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "100.120.121.5" closed
+[2024-08-18 09:26:13.899 +00:00] [INF] [147] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2024-08-18 09:26:15.829 +00:00] [INF] [150] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2024-08-18 09:26:18.898 +00:00] [INF] [147] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2024-08-18 09:26:20.862 +00:00] [INF] [147] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2024-08-18 09:26:23.902 +00:00] [INF] [150] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2024-08-18 09:26:25.445 +00:00] [INF] [147] Jellyfin.Server.Implementations.Users.UserManager: Authentication request for "shohel" has succeeded.
+[2024-08-18 09:26:25.445 +00:00] [INF] [147] Emby.Server.Implementations.Session.SessionManager: Current/Max sessions for user "shohel": 0/0
+[2024-08-18 09:26:25.445 +00:00] [INF] [147] Emby.Server.Implementations.Session.SessionManager: Creating new access token for user 3d1052e3-0e2f-4679-9534-f6f7bf3ab9a5
+[2024-08-18 09:26:25.541 +00:00] [INF] [147] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "100.120.121.5" request
+[2024-08-18 09:30:01.542 +00:00] [INF] [142] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-08-18 09:32:49.542 +00:00] [INF] [134] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-08-18 09:35:37.543 +00:00] [INF] [127] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-08-18 09:36:38.264 +00:00] [INF] [120] Emby.Server.Implementations.SyncPlay.Group: Session "78584235002bb824e40c1e37d1c81b5e" created group "7c7f7a9c-3ce7-447b-97b8-fa2500872b21".
+[2024-08-18 09:36:47.437 +00:00] [INF] [127] Emby.Server.Implementations.SyncPlay.Group: Session "78584235002bb824e40c1e37d1c81b5e" left group "7c7f7a9c-3ce7-447b-97b8-fa2500872b21".
+[2024-08-18 09:36:47.437 +00:00] [INF] [127] Emby.Server.Implementations.SyncPlay.SyncPlayManager: Group 7c7f7a9c-3ce7-447b-97b8-fa2500872b21 is empty, removing it.
+[2024-08-18 09:39:01.542 +00:00] [INF] [120] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-08-18 09:41:49.541 +00:00] [INF] [111] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-08-18 09:44:37.542 +00:00] [INF] [112] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-08-18 09:47:25.543 +00:00] [INF] [99] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-08-18 09:51:01.541 +00:00] [INF] [87] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-08-18 09:53:49.542 +00:00] [INF] [81] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-08-18 09:56:37.542 +00:00] [INF] [76] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-08-18 10:00:01.542 +00:00] [INF] [61] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-08-18 10:02:49.542 +00:00] [INF] [56] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-08-18 10:05:37.542 +00:00] [INF] [46] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-08-18 10:08:25.542 +00:00] [INF] [38] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-08-18 10:12:01.543 +00:00] [INF] [25] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-08-18 10:14:49.541 +00:00] [INF] [29] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-08-18 10:15:10.309 +00:00] [INF] [155] Emby.Server.Implementations.Session.SessionManager: Logging out access token "8bea4a37b2414855bb5cfe1b85740390"
+[2024-08-18 10:15:10.325 +00:00] [INF] [156] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "100.120.121.5" closed
+[2024-08-18 10:15:10.951 +00:00] [INF] [156] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
+[2024-08-18 10:15:14.009 +00:00] [INF] [30] Jellyfin.Api.Auth.CustomAuthenticationHandler: AuthenticationScheme: "CustomAuthentication" was challenged.
