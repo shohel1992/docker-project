@@ -71,3 +71,35 @@
 [2024-08-18 06:44:09.135 +00:00] [INF] [4] Main: Startup complete 0:00:04.6320914
 [2024-08-18 06:44:11.300 +00:00] [INF] [11] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Clean up collections and playlists" Completed after 0 minute(s) and 0 seconds
 [2024-08-18 06:44:18.463 +00:00] [INF] [4] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Update Plugins" Completed after 0 minute(s) and 7 seconds
+[2024-08-18 07:36:22.937 +00:00] [INF] [45] Emby.Server.Implementations.AppBase.BaseConfigurationManager: Saving system configuration
+[2024-08-18 07:36:22.942 +00:00] [INF] [45] Emby.Server.Implementations.AppBase.BaseConfigurationManager: Setting cache path: "/cache"
+[2024-08-18 07:36:22.943 +00:00] [INF] [51] Jellyfin.Networking.PortForwardingHost: Stopping NAT discovery
+[2024-08-18 07:36:22.994 +00:00] [WRN] [51] Jellyfin.Server.Implementations.Users.UserManager: No users, creating one with username "root"
+[2024-08-18 07:37:42.876 +00:00] [INF] [38] Emby.Server.Implementations.AppBase.BaseConfigurationManager: Saving system configuration
+[2024-08-18 07:37:42.881 +00:00] [INF] [38] Emby.Server.Implementations.AppBase.BaseConfigurationManager: Setting cache path: "/cache"
+[2024-08-18 07:37:45.242 +00:00] [INF] [36] Jellyfin.Networking.Manager.NetworkManager: Defined LAN subnets: ["127.0.0.1/8", "10.0.0.0/8", "172.16.0.0/12", "192.168.0.0/16"]
+[2024-08-18 07:37:45.242 +00:00] [INF] [36] Jellyfin.Networking.Manager.NetworkManager: Defined LAN exclusions: []
+[2024-08-18 07:37:45.242 +00:00] [INF] [36] Jellyfin.Networking.Manager.NetworkManager: Used LAN subnets: ["127.0.0.1/8", "10.0.0.0/8", "172.16.0.0/12", "192.168.0.0/16"]
+[2024-08-18 07:37:45.242 +00:00] [INF] [36] Jellyfin.Networking.Manager.NetworkManager: Filtered interface addresses: ["127.0.0.1", "172.17.0.5"]
+[2024-08-18 07:37:45.242 +00:00] [INF] [36] Jellyfin.Networking.Manager.NetworkManager: Bind Addresses ["0.0.0.0"]
+[2024-08-18 07:37:45.242 +00:00] [INF] [36] Jellyfin.Networking.Manager.NetworkManager: Remote IP filter is "Allowlist"
+[2024-08-18 07:37:45.242 +00:00] [INF] [36] Jellyfin.Networking.Manager.NetworkManager: Filtered subnets: []
+[2024-08-18 07:37:47.058 +00:00] [INF] [38] Emby.Server.Implementations.AppBase.BaseConfigurationManager: Saving system configuration
+[2024-08-18 07:37:47.063 +00:00] [INF] [38] Emby.Server.Implementations.AppBase.BaseConfigurationManager: Setting cache path: "/cache"
+[2024-08-18 07:37:47.067 +00:00] [INF] [39] Emby.Server.Implementations.Library.LibraryManager: Validating media library
+[2024-08-18 07:37:47.282 +00:00] [WRN] [39] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/playlists" is inaccessible or empty, skipping
+[2024-08-18 07:37:47.402 +00:00] [WRN] [39] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/playlists" is inaccessible or empty, skipping
+[2024-08-18 07:37:47.589 +00:00] [INF] [36] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/lesson3.mp4\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-08-18 07:37:47.589 +00:00] [INF] [38] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/lesson6.mp4\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-08-18 07:37:47.589 +00:00] [INF] [39] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/lesson5.mp4\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-08-18 07:37:47.589 +00:00] [INF] [47] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/lesson1.mp4\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-08-18 07:37:48.831 +00:00] [INF] [36] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/lesson2.mp4\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-08-18 07:37:48.832 +00:00] [INF] [39] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/lesson4.mp4\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-08-18 07:37:49.408 +00:00] [INF] [39] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Scan Media Library" Completed after 0 minute(s) and 2 seconds
+[2024-08-18 07:37:49.457 +00:00] [INF] [36] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/media"
+[2024-08-18 07:37:58.090 +00:00] [INF] [41] Jellyfin.Server.Implementations.Users.UserManager: Authentication request for "shohel" has succeeded.
+[2024-08-18 07:37:58.090 +00:00] [INF] [41] Emby.Server.Implementations.Session.SessionManager: Current/Max sessions for user "shohel": 0/0
+[2024-08-18 07:37:58.093 +00:00] [INF] [41] Emby.Server.Implementations.Session.SessionManager: Creating new access token for user 3d1052e3-0e2f-4679-9534-f6f7bf3ab9a5
+[2024-08-18 07:37:59.428 +00:00] [INF] [39] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "100.120.121.5" request
+[2024-08-18 07:38:19.169 +00:00] [INF] [45] Jellyfin.Api.Helpers.MediaInfoHelper: User policy for "shohel". EnablePlaybackRemuxing: True EnableVideoPlaybackTranscoding: True EnableAudioPlaybackTranscoding: True
+[2024-08-18 07:38:23.605 +00:00] [INF] [36] Emby.Server.Implementations.Session.SessionManager: Playback stopped reported by app "Jellyfin Web" "10.9.9" playing "lesson4". Stopped at "2746" ms
