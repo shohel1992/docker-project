@@ -10,7 +10,7 @@
   <ExtractTrickplayImagesDuringLibraryScan>false</ExtractTrickplayImagesDuringLibraryScan>
   <PathInfos>
     <MediaPathInfo>
-      <Path>/media</Path>
+      <Path>/media/Docker</Path>
     </MediaPathInfo>
   </PathInfos>
   <SaveLocalMetadata>false</SaveLocalMetadata>

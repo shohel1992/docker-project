@@ -103,3 +103,39 @@
 [2024-08-18 07:37:59.428 +00:00] [INF] [39] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "100.120.121.5" request
 [2024-08-18 07:38:19.169 +00:00] [INF] [45] Jellyfin.Api.Helpers.MediaInfoHelper: User policy for "shohel". EnablePlaybackRemuxing: True EnableVideoPlaybackTranscoding: True EnableAudioPlaybackTranscoding: True
 [2024-08-18 07:38:23.605 +00:00] [INF] [36] Emby.Server.Implementations.Session.SessionManager: Playback stopped reported by app "Jellyfin Web" "10.9.9" playing "lesson4". Stopped at "2746" ms
+[2024-08-18 07:40:28.737 +00:00] [INF] [11] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/media"
+[2024-08-18 07:40:28.745 +00:00] [INF] [16] Emby.Server.Implementations.Library.LibraryManager: Validating media library
+[2024-08-18 07:40:28.767 +00:00] [WRN] [4] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/playlists" is inaccessible or empty, skipping
+[2024-08-18 07:40:28.773 +00:00] [WRN] [4] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/playlists" is inaccessible or empty, skipping
+[2024-08-18 07:40:28.776 +00:00] [INF] [4] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Scan Media Library" Completed after 0 minute(s) and 0 seconds
+[2024-08-18 07:40:35.108 +00:00] [INF] [16] Emby.Server.Implementations.Library.LibraryManager: Validating media library
+[2024-08-18 07:40:35.124 +00:00] [WRN] [4] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/playlists" is inaccessible or empty, skipping
+[2024-08-18 07:40:35.132 +00:00] [WRN] [4] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/playlists" is inaccessible or empty, skipping
+[2024-08-18 07:40:35.138 +00:00] [INF] [16] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/Docker/lesson3.mp4\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-08-18 07:40:35.138 +00:00] [INF] [4] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/Docker/lesson1.mp4\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-08-18 07:40:35.138 +00:00] [INF] [6] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/Docker/lesson6.mp4\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-08-18 07:40:35.138 +00:00] [INF] [37] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/Docker/lesson5.mp4\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-08-18 07:40:35.852 +00:00] [INF] [6] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/Docker/lesson4.mp4\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-08-18 07:40:35.928 +00:00] [INF] [16] MediaBrowser.MediaEncoding.Encoder.MediaEncoder: Starting "/usr/lib/jellyfin-ffmpeg/ffprobe" with args "-analyzeduration 200M -probesize 1G -i file:\"/media/Docker/lesson2.mp4\" -threads 0 -v warning -print_format json -show_streams -show_chapters -show_format"
+[2024-08-18 07:40:36.422 +00:00] [INF] [6] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Scan Media Library" Completed after 0 minute(s) and 1 seconds
+[2024-08-18 07:40:36.423 +00:00] [INF] [16] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/media/Docker"
+[2024-08-18 07:40:38.387 +00:00] [INF] [16] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/media/Docker"
+[2024-08-18 07:40:38.387 +00:00] [INF] [16] Emby.Server.Implementations.Library.LibraryManager: Validating media library
+[2024-08-18 07:40:38.404 +00:00] [WRN] [16] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/playlists" is inaccessible or empty, skipping
+[2024-08-18 07:40:38.409 +00:00] [WRN] [16] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/playlists" is inaccessible or empty, skipping
+[2024-08-18 07:40:38.418 +00:00] [INF] [37] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Scan Media Library" Completed after 0 minute(s) and 0 seconds
+[2024-08-18 07:40:38.418 +00:00] [INF] [11] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/media/Docker"
+[2024-08-18 07:40:55.007 +00:00] [INF] [16] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/media/Docker"
+[2024-08-18 07:40:55.008 +00:00] [INF] [16] Emby.Server.Implementations.Library.LibraryManager: Validating media library
+[2024-08-18 07:40:55.010 +00:00] [WRN] [16] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/playlists" is inaccessible or empty, skipping
+[2024-08-18 07:40:55.017 +00:00] [WRN] [16] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/playlists" is inaccessible or empty, skipping
+[2024-08-18 07:40:55.023 +00:00] [INF] [6] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Scan Media Library" Completed after 0 minute(s) and 0 seconds
+[2024-08-18 07:40:55.023 +00:00] [INF] [42] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/media/Docker"
+[2024-08-18 07:40:56.146 +00:00] [INF] [6] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/media/Docker"
+[2024-08-18 07:40:56.146 +00:00] [INF] [6] Emby.Server.Implementations.Library.LibraryManager: Validating media library
+[2024-08-18 07:40:56.148 +00:00] [WRN] [6] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/playlists" is inaccessible or empty, skipping
+[2024-08-18 07:40:56.153 +00:00] [WRN] [42] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/playlists" is inaccessible or empty, skipping
+[2024-08-18 07:40:56.159 +00:00] [INF] [37] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Scan Media Library" Completed after 0 minute(s) and 0 seconds
+[2024-08-18 07:40:56.160 +00:00] [INF] [11] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/media/Docker"
+[2024-08-18 07:41:35.230 +00:00] [INF] [6] Jellyfin.Api.Helpers.MediaInfoHelper: User policy for "shohel". EnablePlaybackRemuxing: True EnableVideoPlaybackTranscoding: True EnableAudioPlaybackTranscoding: True
+[2024-08-18 07:41:39.767 +00:00] [INF] [43] Emby.Server.Implementations.Session.SessionManager: Playback stopped reported by app "Jellyfin Web" "10.9.9" playing "lesson4". Stopped at "3266" ms
