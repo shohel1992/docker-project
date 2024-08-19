@@ -250,3 +250,4 @@
 [2024-08-18 11:01:35.436 +00:00] [INF] [26] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
 [2024-08-18 11:02:07.337 +00:00] [INF] [26] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "100.120.121.5" closed
 [2024-08-18 11:02:56.400 +00:00] [INF] [84] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "100.120.121.5" request
+[2024-08-18 11:04:44.923 +00:00] [INF] [77] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "100.120.121.5" closed
