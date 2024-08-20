@@ -4,12 +4,12 @@ services:
     container_name: jellyfin-by-compose
     user: 1000:1000
     volumes:
-      - /home/shohel/mygithub/docker-project/docker-project/Jellyfin-Compose/config:/config
-      - /home/shohel/mygithub/docker-project/docker-project/Jellyfin-Compose/cache:/cache
+      - /home/shohel/mygithub/docker-project/Jellyfin-Compose/config:/config
+      - /home/shohel/mygithub/docker-project/Jellyfin-Compose/cache:/cache
       - type: bind
-        source: /home/shohel/mygithub/docker-project/docker-project/Jellyfin-Compose/media
+        source: /home/shohel/mygithub/docker-project/Jellyfin-Compose/media
         target: /media
         read_only: true
     ports:
-      - 8091:8096/tcp
+      - 8096:8096/tcp
     restart: 'unless-stopped'
