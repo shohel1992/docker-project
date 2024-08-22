@@ -70,3 +70,27 @@
 [2024-08-20 10:21:33.925 +00:00] [INF] [1] Main: Startup complete 0:00:05.2343764
 [2024-08-20 10:21:36.041 +00:00] [INF] [13] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Clean up collections and playlists" Completed after 0 minute(s) and 0 seconds
 [2024-08-20 10:21:38.004 +00:00] [INF] [6] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Update Plugins" Completed after 0 minute(s) and 1 seconds
+[2024-08-20 11:21:33.025 +00:00] [INF] [29] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Download missing subtitles" Completed after 0 minute(s) and 0 seconds
+[2024-08-20 11:21:33.026 +00:00] [INF] [27] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Audio Normalization" Completed after 0 minute(s) and 0 seconds
+[2024-08-20 11:21:33.092 +00:00] [INF] [29] Emby.Server.Implementations.Library.LibraryManager: Validating media library
+[2024-08-20 11:21:33.095 +00:00] [INF] [28] Emby.Server.Implementations.ScheduledTasks.TaskManager: "TasksRefreshChannels" Completed after 0 minute(s) and 0 seconds
+[2024-08-20 11:21:33.123 +00:00] [INF] [28] Emby.Server.Implementations.Library.LibraryManager: People validation complete
+[2024-08-20 11:21:33.123 +00:00] [INF] [28] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Refresh People" Completed after 0 minute(s) and 0 seconds
+[2024-08-20 11:21:33.144 +00:00] [INF] [28] Emby.Server.Implementations.ScheduledTasks.Tasks.OptimizeDatabaseTask: Optimizing and vacuuming jellyfin.db...
+[2024-08-20 11:21:33.145 +00:00] [INF] [31] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Clean Transcode Directory" Completed after 0 minute(s) and 0 seconds
+[2024-08-20 11:21:33.171 +00:00] [INF] [31] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Clean Log Directory" Completed after 0 minute(s) and 0 seconds
+[2024-08-20 11:21:33.192 +00:00] [INF] [31] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Clean Cache Directory" Completed after 0 minute(s) and 0 seconds
+[2024-08-20 11:21:33.217 +00:00] [INF] [28] Emby.Server.Implementations.ScheduledTasks.Tasks.OptimizeDatabaseTask: jellyfin.db optimized successfully!
+[2024-08-20 11:21:33.217 +00:00] [INF] [28] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Optimize database" Completed after 0 minute(s) and 0 seconds
+[2024-08-20 11:21:33.309 +00:00] [WRN] [29] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/playlists" is inaccessible or empty, skipping
+[2024-08-20 11:21:33.336 +00:00] [WRN] [29] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/playlists" is inaccessible or empty, skipping
+[2024-08-20 11:21:33.355 +00:00] [INF] [27] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Scan Media Library" Completed after 0 minute(s) and 0 seconds
+[2024-08-20 11:21:36.157 +00:00] [INF] [31] Jellyfin.LiveTv.Guide.GuideManager: Refreshing guide with 7 days of guide data
+[2024-08-20 11:21:36.163 +00:00] [INF] [31] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Refresh Guide" Completed after 0 minute(s) and 3 seconds
+[2024-08-20 11:21:39.638 +00:00] [INF] [31] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Update Plugins" Completed after 0 minute(s) and 6 seconds
+[2024-08-20 12:21:37.030 +00:00] [INF] [115] Jellyfin.LiveTv.Guide.GuideManager: Refreshing guide with 7 days of guide data
+[2024-08-20 12:21:37.032 +00:00] [INF] [115] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Refresh Guide" Completed after 0 minute(s) and 3 seconds
+[2024-08-20 23:21:33.355 +00:00] [INF] [106] Emby.Server.Implementations.Library.LibraryManager: Validating media library
+[2024-08-20 23:21:33.359 +00:00] [WRN] [106] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/playlists" is inaccessible or empty, skipping
+[2024-08-20 23:21:33.364 +00:00] [WRN] [16] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/playlists" is inaccessible or empty, skipping
+[2024-08-20 23:21:33.367 +00:00] [INF] [13] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Scan Media Library" Completed after 0 minute(s) and 0 seconds

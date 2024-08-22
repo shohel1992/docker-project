@@ -1,0 +1,11 @@
+services:
+  apache2: 
+    container_name: apache2-compose
+    image: ubuntu/apache2:2.4-22.04_beta
+    volumes:
+      - /home/shohel/mygithub/docker-project/apache/website:/var/www/html
+      - /home/shohel/mygithub/docker-project/apache/config/apache2.conf:/etc/apache2/apache2.conf
+    ports:
+      - 80:80
+
+

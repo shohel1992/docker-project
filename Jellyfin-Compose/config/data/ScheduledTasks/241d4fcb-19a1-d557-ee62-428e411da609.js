@@ -1,1 +1,1 @@
-{"StartTimeUtc":"2024-08-20T10:40:15.4720223Z","EndTimeUtc":"2024-08-20T10:40:15.5401807Z","Status":"Completed","Name":"Clean Cache Directory","Key":"DeleteCacheFiles","Id":"241d4fcb19a1d557ee62428e411da609"}
+{"StartTimeUtc":"2024-08-22T10:40:15.5772993Z","EndTimeUtc":"2024-08-22T10:40:15.5791649Z","Status":"Completed","Name":"Clean Cache Directory","Key":"DeleteCacheFiles","Id":"241d4fcb19a1d557ee62428e411da609"}

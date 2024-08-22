@@ -70,3 +70,9 @@
 [2024-08-20 10:40:17.390 +00:00] [INF] [20] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Update Plugins" Completed after 0 minute(s) and 1 seconds
 [2024-08-20 10:40:18.630 +00:00] [INF] [16] Jellyfin.LiveTv.Guide.GuideManager: Refreshing guide with 7 days of guide data
 [2024-08-20 10:40:18.636 +00:00] [INF] [16] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Refresh Guide" Completed after 0 minute(s) and 3 seconds
+[2024-08-20 22:40:15.565 +00:00] [INF] [26] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/media/Docker"
+[2024-08-20 22:40:15.566 +00:00] [INF] [26] Emby.Server.Implementations.Library.LibraryManager: Validating media library
+[2024-08-20 22:40:15.570 +00:00] [WRN] [26] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/playlists" is inaccessible or empty, skipping
+[2024-08-20 22:40:15.575 +00:00] [WRN] [26] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/playlists" is inaccessible or empty, skipping
+[2024-08-20 22:40:15.586 +00:00] [INF] [25] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Scan Media Library" Completed after 0 minute(s) and 0 seconds
+[2024-08-20 22:40:15.587 +00:00] [INF] [38] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/media/Docker"
