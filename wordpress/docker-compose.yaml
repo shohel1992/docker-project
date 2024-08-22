@@ -1,0 +1,31 @@
+services:
+
+  wordpress:
+    container_name: my_wordpress
+    image: wordpress
+    restart: always
+    ports:
+      - 8080:80
+    environment:
+      WORDPRESS_DB_HOST: db
+      WORDPRESS_DB_USER: dbuser
+      WORDPRESS_DB_PASSWORD: asdf@123456
+      WORDPRESS_DB_NAME: wordpressdb
+    volumes:
+      - wordpress:/var/www/html
+
+  db:
+    container_name: my_dbserver
+    image: mysql:8.0
+    restart: always
+    environment:
+      MYSQL_DATABASE: wordpressdb
+      MYSQL_USER: dbuser
+      MYSQL_PASSWORD: asdf@123456
+      MYSQL_RANDOM_ROOT_PASSWORD: '1'
+    volumes:
+      - db:/var/lib/mysql
+
+volumes:
+  wordpress:
+  db:
