@@ -1,0 +1,42 @@
+[2024-08-25 02:00:00.009 +00:00] [INF] [147] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Extract Chapter Images" Completed after 0 minute(s) and 0 seconds
+[2024-08-25 02:00:01.000 +00:00] [INF] [147] Emby.Server.Implementations.ScheduledTasks.TaskManager: Daily trigger for "Extract Chapter Images" set to fire at 2024-08-26 02:00:00.000 +00:00, which is 23:59:58.9994531 from now.
+[2024-08-25 03:00:00.001 +00:00] [INF] [48] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Generate Trickplay Images" Completed after 0 minute(s) and 0 seconds
+[2024-08-25 03:00:01.000 +00:00] [INF] [87] Emby.Server.Implementations.ScheduledTasks.TaskManager: Daily trigger for "Generate Trickplay Images" set to fire at 2024-08-26 03:00:00.000 +00:00, which is 23:59:58.9998035 from now.
+[2024-08-25 05:57:45.478 +00:00] [INF] [146] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/media/Ansible"
+[2024-08-25 05:57:45.479 +00:00] [INF] [146] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/media/Docker"
+[2024-08-25 05:57:45.479 +00:00] [INF] [146] Emby.Server.Implementations.Library.LibraryManager: Validating media library
+[2024-08-25 05:57:45.487 +00:00] [WRN] [146] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/playlists" is inaccessible or empty, skipping
+[2024-08-25 05:57:45.495 +00:00] [WRN] [148] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/playlists" is inaccessible or empty, skipping
+[2024-08-25 05:57:45.502 +00:00] [INF] [154] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Scan Media Library" Completed after 0 minute(s) and 0 seconds
+[2024-08-25 05:57:45.503 +00:00] [INF] [148] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/media/Docker"
+[2024-08-25 05:57:45.548 +00:00] [INF] [144] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/media/Ansible"
+[2024-08-25 08:20:15.815 +00:00] [INF] [164] Jellyfin.Server.Implementations.Users.UserManager: Authentication request for "root" has succeeded.
+[2024-08-25 08:20:15.815 +00:00] [INF] [164] Emby.Server.Implementations.Session.SessionManager: Current/Max sessions for user "root": 0/0
+[2024-08-25 08:20:15.815 +00:00] [INF] [164] Emby.Server.Implementations.Session.SessionManager: Creating new access token for user 84789548-170e-4d2e-bd09-42b00489ddbf
+[2024-08-25 08:20:16.053 +00:00] [INF] [166] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "100.120.121.5" request
+[2024-08-25 08:20:26.807 +00:00] [INF] [164] Jellyfin.Api.Helpers.MediaInfoHelper: User policy for "root". EnablePlaybackRemuxing: True EnableVideoPlaybackTranscoding: True EnableAudioPlaybackTranscoding: True
+[2024-08-25 08:21:42.068 +00:00] [INF] [104] Emby.Server.Implementations.Session.SessionManager: Playback stopped reported by app "Jellyfin Web" "10.9.9" playing "1. Jenkins Pipeline and Ansible Integration". Stopped at "98770" ms
+[2024-08-25 08:21:44.012 +00:00] [INF] [104] Jellyfin.Api.Helpers.MediaInfoHelper: User policy for "root". EnablePlaybackRemuxing: True EnableVideoPlaybackTranscoding: True EnableAudioPlaybackTranscoding: True
+[2024-08-25 08:22:27.942 +00:00] [INF] [221] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "100.120.121.5" closed
+[2024-08-25 08:22:28.347 +00:00] [INF] [221] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "100.120.121.5" request
+[2024-08-25 08:22:30.378 +00:00] [INF] [226] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "100.120.121.5" closed
+[2024-08-25 08:22:30.617 +00:00] [INF] [218] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "100.120.121.5" request
+[2024-08-25 08:22:37.495 +00:00] [INF] [39] Jellyfin.Api.Helpers.MediaInfoHelper: User policy for "root". EnablePlaybackRemuxing: True EnableVideoPlaybackTranscoding: True EnableAudioPlaybackTranscoding: True
+[2024-08-25 08:22:58.499 +00:00] [INF] [218] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "100.120.121.5" closed
+[2024-08-25 08:22:58.886 +00:00] [INF] [221] Emby.Server.Implementations.HttpServer.WebSocketManager: WS "100.120.121.5" request
+[2024-08-25 08:23:03.842 +00:00] [INF] [221] Jellyfin.Api.Helpers.MediaInfoHelper: User policy for "root". EnablePlaybackRemuxing: True EnableVideoPlaybackTranscoding: True EnableAudioPlaybackTranscoding: True
+[2024-08-25 08:23:10.583 +00:00] [INF] [221] Emby.Server.Implementations.Session.SessionManager: Playback stopped reported by app "Jellyfin Web" "10.9.9" playing "lesson3". Stopped at "44793" ms
+[2024-08-25 08:23:14.159 +00:00] [INF] [11] Jellyfin.Api.Helpers.MediaInfoHelper: User policy for "root". EnablePlaybackRemuxing: True EnableVideoPlaybackTranscoding: True EnableAudioPlaybackTranscoding: True
+[2024-08-25 08:23:18.564 +00:00] [INF] [39] Emby.Server.Implementations.Session.SessionManager: Playback stopped reported by app "Jellyfin Web" "10.9.9" playing "3. Kubernetes - Build CICD Pipelines". Stopped at "3103" ms
+[2024-08-25 08:25:46.886 +00:00] [INF] [17] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-08-25 08:29:10.886 +00:00] [INF] [36] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-08-25 08:31:58.885 +00:00] [INF] [219] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-08-25 08:34:46.886 +00:00] [INF] [32] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-08-25 08:38:10.886 +00:00] [INF] [104] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-08-25 08:40:58.886 +00:00] [INF] [170] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-08-25 08:43:46.886 +00:00] [INF] [172] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-08-25 08:47:10.885 +00:00] [INF] [99] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-08-25 08:49:58.886 +00:00] [INF] [28] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-08-25 08:52:46.885 +00:00] [INF] [202] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-08-25 08:56:10.886 +00:00] [INF] [195] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.
+[2024-08-25 08:58:58.886 +00:00] [INF] [196] Emby.Server.Implementations.Session.SessionWebSocketListener: Sending ForceKeepAlive message to 1 inactive WebSockets.

@@ -7,5 +7,3 @@ services:
       - /home/shohel/mygithub/docker-project/apache/config/apache2.conf:/etc/apache2/apache2.conf
     ports:
       - 80:80
-
-

@@ -1,0 +1,32 @@
+[2024-08-24 02:00:00.005 +00:00] [INF] [72] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Extract Chapter Images" Completed after 0 minute(s) and 0 seconds
+[2024-08-24 02:00:01.000 +00:00] [INF] [70] Emby.Server.Implementations.ScheduledTasks.TaskManager: Daily trigger for "Extract Chapter Images" set to fire at 2024-08-25 02:00:00.000 +00:00, which is 23:59:58.9997968 from now.
+[2024-08-24 03:00:00.009 +00:00] [INF] [24] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Generate Trickplay Images" Completed after 0 minute(s) and 0 seconds
+[2024-08-24 03:00:01.000 +00:00] [INF] [115] Emby.Server.Implementations.ScheduledTasks.TaskManager: Daily trigger for "Generate Trickplay Images" set to fire at 2024-08-25 03:00:00.000 +00:00, which is 23:59:58.9994735 from now.
+[2024-08-24 05:57:45.419 +00:00] [INF] [164] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/media/Ansible"
+[2024-08-24 05:57:45.419 +00:00] [INF] [164] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/media/Docker"
+[2024-08-24 05:57:45.419 +00:00] [INF] [164] Emby.Server.Implementations.Library.LibraryManager: Validating media library
+[2024-08-24 05:57:45.427 +00:00] [WRN] [164] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/playlists" is inaccessible or empty, skipping
+[2024-08-24 05:57:45.435 +00:00] [WRN] [164] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/playlists" is inaccessible or empty, skipping
+[2024-08-24 05:57:45.445 +00:00] [INF] [166] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Scan Media Library" Completed after 0 minute(s) and 0 seconds
+[2024-08-24 05:57:45.495 +00:00] [INF] [161] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/media/Docker"
+[2024-08-24 05:57:45.495 +00:00] [INF] [163] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/media/Ansible"
+[2024-08-24 16:56:52.512 +00:00] [INF] [90] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Update Plugins" Completed after 0 minute(s) and 3 seconds
+[2024-08-24 17:57:44.980 +00:00] [INF] [93] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Download missing subtitles" Completed after 0 minute(s) and 0 seconds
+[2024-08-24 17:57:45.043 +00:00] [INF] [94] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Audio Normalization" Completed after 0 minute(s) and 0 seconds
+[2024-08-24 17:57:45.075 +00:00] [INF] [94] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Clean Log Directory" Completed after 0 minute(s) and 0 seconds
+[2024-08-24 17:57:45.118 +00:00] [INF] [93] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Clean Transcode Directory" Completed after 0 minute(s) and 0 seconds
+[2024-08-24 17:57:45.154 +00:00] [INF] [99] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Clean Cache Directory" Completed after 0 minute(s) and 0 seconds
+[2024-08-24 17:57:45.230 +00:00] [INF] [99] Emby.Server.Implementations.ScheduledTasks.TaskManager: "TasksRefreshChannels" Completed after 0 minute(s) and 0 seconds
+[2024-08-24 17:57:45.267 +00:00] [INF] [94] Emby.Server.Implementations.ScheduledTasks.Tasks.OptimizeDatabaseTask: Optimizing and vacuuming jellyfin.db...
+[2024-08-24 17:57:45.301 +00:00] [INF] [94] Emby.Server.Implementations.ScheduledTasks.Tasks.OptimizeDatabaseTask: jellyfin.db optimized successfully!
+[2024-08-24 17:57:45.301 +00:00] [INF] [94] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Optimize database" Completed after 0 minute(s) and 0 seconds
+[2024-08-24 17:57:45.444 +00:00] [INF] [99] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/media/Ansible"
+[2024-08-24 17:57:45.445 +00:00] [INF] [99] Emby.Server.Implementations.IO.LibraryMonitor: Stopping directory watching for path "/media/Docker"
+[2024-08-24 17:57:45.445 +00:00] [INF] [99] Emby.Server.Implementations.Library.LibraryManager: Validating media library
+[2024-08-24 17:57:45.452 +00:00] [WRN] [99] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/playlists" is inaccessible or empty, skipping
+[2024-08-24 17:57:45.465 +00:00] [WRN] [94] MediaBrowser.Controller.Entities.BaseItem: Library folder "/config/data/playlists" is inaccessible or empty, skipping
+[2024-08-24 17:57:45.478 +00:00] [INF] [95] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Scan Media Library" Completed after 0 minute(s) and 0 seconds
+[2024-08-24 17:57:45.515 +00:00] [INF] [101] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/media/Docker"
+[2024-08-24 17:57:45.515 +00:00] [INF] [100] Emby.Server.Implementations.IO.LibraryMonitor: Watching directory "/media/Ansible"
+[2024-08-24 18:57:49.190 +00:00] [INF] [156] Jellyfin.LiveTv.Guide.GuideManager: Refreshing guide with 7 days of guide data
+[2024-08-24 18:57:49.191 +00:00] [INF] [156] Emby.Server.Implementations.ScheduledTasks.TaskManager: "Refresh Guide" Completed after 0 minute(s) and 3 seconds
